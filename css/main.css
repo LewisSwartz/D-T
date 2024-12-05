@@ -1,0 +1,134 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+#filler,#progress{
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(179, 176, 42, 0.9)), url(../img/about-bcg.jpg) center/cover no-repeat fixed;
+}
+.homebg{
+    background: url(/img/RoyalBarge.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+.bg1{
+    margin-top: 250px;
+    background-color: #000;
+    opacity: 60%;
+}
+
+.bg2{
+    background: url(../img/Think-Myanmar-ShwedagonPagoda-576720912-SeanPavonePhoto-copy.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg4{
+    background-color: black;
+    opacity: 60%;
+}
+
+.bg5{
+    margin-top: 500px;
+    background-color: black;
+    opacity: 60%;
+}
+.textdesign{
+    color: rgb(226, 240, 27);
+}
+
+.textdesign1{
+    color: rgb(108, 218, 75);
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.textdesign2{
+    color: rgb(57, 255, 8);
+    font-style: italic;
+    font-size: 25px;
+}
+
+.textdesign3{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.textdesign4{
+    color: gainsboro;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.textdesign5{
+    margin-left: 80px;
+}
+
+.textdesign6{
+    color: gray;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.icondesign{
+    color: rgb(243, 167, 4);
+}
+
+.mandalaybg{
+    background: url(../img/GettyImages-184322781_medium.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.yangonbg{
+    background: url(../img/2015-Myanmar-Singapur-1718-Edited.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.baganbg{
+    background: url(../img/thumb-1920-608952.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.loikawbg{
+    background: url(../img/52ecd5024732f2e2baeb6ee707b6930c.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.inlebg{
+    background: url(../img/IMG_0906-Copy.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ngwesaungbg{
+    background: url(../img/ngwe-saung-beach.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg3{
+    margin-bottom: 10px;
+    background-color: black;
+    opacity: 60%;
+}
+
+.roundedcorner{
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
